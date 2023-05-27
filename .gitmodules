@@ -10,3 +10,6 @@
 [submodule "OOP"]
 	path = OOP
 	url = https://github.com/jimin-kiim/OOP
+[submodule "DBS"]
+	path = DBS
+	url = https://github.com/jimin-kiim/DBS
