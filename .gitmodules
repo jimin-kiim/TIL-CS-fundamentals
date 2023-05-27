@@ -1,3 +1,6 @@
 [submodule "Algorithm"]
 	path = Algorithm
 	url = https://github.com/jimin-kiim/Algorithm
+[submodule "Operating-System"]
+	path = Operating-System
+	url = https://github.com/jimin-kiim/Operating-System
