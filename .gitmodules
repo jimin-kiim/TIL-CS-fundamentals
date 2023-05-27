@@ -4,3 +4,6 @@
 [submodule "Operating-System"]
 	path = Operating-System
 	url = https://github.com/jimin-kiim/Operating-System
+[submodule "Software-Engineering"]
+	path = Software-Engineering
+	url = https://github.com/jimin-kiim/Software-Engineering
