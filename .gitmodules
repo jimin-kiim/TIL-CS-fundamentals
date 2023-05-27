@@ -16,3 +16,6 @@
 [submodule "Computer-Architecture"]
 	path = Computer-Architecture
 	url = https://github.com/jimin-kiim/Computer-Architecture
+[submodule "Programming-Language-and-Compiler"]
+	path = Programming-Language-and-Compiler
+	url = https://github.com/jimin-kiim/Programming-Language-and-Compiler
