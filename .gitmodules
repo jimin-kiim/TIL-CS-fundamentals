@@ -7,3 +7,6 @@
 [submodule "Software-Engineering"]
 	path = Software-Engineering
 	url = https://github.com/jimin-kiim/Software-Engineering
+[submodule "OOP"]
+	path = OOP
+	url = https://github.com/jimin-kiim/OOP
