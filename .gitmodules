@@ -13,3 +13,6 @@
 [submodule "DBS"]
 	path = DBS
 	url = https://github.com/jimin-kiim/DBS
+[submodule "Computer-Architecture"]
+	path = Computer-Architecture
+	url = https://github.com/jimin-kiim/Computer-Architecture
