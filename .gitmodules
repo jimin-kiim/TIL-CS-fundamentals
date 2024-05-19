@@ -19,3 +19,6 @@
 [submodule "Programming-Language-and-Compiler"]
 	path = Programming-Language-and-Compiler
 	url = https://github.com/jimin-kiim/Programming-Language-and-Compiler
+[submodule "Linux-System-and-its-Applications"]
+	path = Linux-System-and-its-Applications
+	url = https://github.com/jimin-kiim/Linux-System-and-its-Applications
