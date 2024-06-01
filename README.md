@@ -1,5 +1,7 @@
 # CS-Fundamentals
 
+[Algorithm](https://github.com/jimin-kiim/Algorithm)
+
 [Database System](https://github.com/jimin-kiim/DBS/tree/153a17bf6a99317211eab53faf1d0c055aa02d6c?tab=readme-ov-file#dbs)
 
 [Object Oriented Programming](https://github.com/jimin-kiim/OOP/tree/1576bd5f1f8953b1a9873dfaafcf8ec939c3df28?tab=readme-ov-file#oop)
