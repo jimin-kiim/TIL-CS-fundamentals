@@ -22,3 +22,9 @@
 [submodule "Linux-System-and-its-Applications"]
 	path = Linux-System-and-its-Applications
 	url = https://github.com/jimin-kiim/Linux-System-and-its-Applications
+[submodule "MachineLearning"]
+	path = MachineLearning
+	url = https://github.com/jimin-kiim/MachineLearning
+[submodule "Machine-Learning"]
+	path = Machine-Learning
+	url = https://github.com/jimin-kiim/Machine-Learning
